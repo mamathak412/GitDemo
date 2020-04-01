@@ -1,2 +1,3 @@
 Stash file check
+Changes from feature branch 2
 
